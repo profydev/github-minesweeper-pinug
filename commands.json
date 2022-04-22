@@ -1,10 +1,6 @@
 {
-<<<<<<< HEAD
   "commands": [
 
-    "end"
+    "clear A3"
   ]
-=======
-  "commands": []
->>>>>>> 38d8152b54b5e2e37eb47141904d5424feda44b8
 }
